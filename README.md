@@ -20,6 +20,17 @@ under the name `simple-workspace`, then configure layout blocks to select the
 sections you want. See the [setup guide](mods/simple-workspace/README.md#setup-and-layout)
 for requirements, configuration examples and current limitations.
 
+## Simple To-do and Simple Tabs
+
+[Simple To-do](mods/simple-todo/README.md) is a small, locally saved task list.
+Create a task with the input and **Create** button (or Enter), check it to strike
+through its text, and use **Clear all** to remove the entire list.
+
+[Simple Tabs](mods/simple-tabs/README.md) adds a **To-do** button immediately
+before **Files** in a clone of Herdr's tab bar. It opens the task list as a
+dropdown popup. The list is shared across workspaces on this installation.
+See the To-do setup guide to install both packages and connect the tab bar.
+
 ## Attribution
 
 Simple Workspace bundles adaptations of `git-changes`, `quota`, `space-groups`
